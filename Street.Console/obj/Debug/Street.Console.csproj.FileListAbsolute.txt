@@ -1,0 +1,16 @@
+C:\Work\Docs\Street\Street\bin\Debug\Street.Console.exe.config
+C:\Work\Docs\Street\Street\bin\Debug\Street.Console.exe
+C:\Work\Docs\Street\Street\bin\Debug\Street.Console.pdb
+C:\Work\Docs\Street\Street\bin\Debug\StreetLibrary.dll
+C:\Work\Docs\Street\Street\bin\Debug\StreetLibrary.pdb
+C:\Work\Docs\Street\Street\obj\Debug\Street.Console.csprojResolveAssemblyReference.cache
+C:\Work\Docs\Street\Street\obj\Debug\Street.Console.exe
+C:\Work\Docs\Street\Street\obj\Debug\Street.Console.pdb
+C:\Work\Docs\Street\Street.Console\bin\Debug\Street.Console.exe.config
+C:\Work\Docs\Street\Street.Console\obj\Debug\Street.Console.exe
+C:\Work\Docs\Street\Street.Console\obj\Debug\Street.Console.pdb
+C:\Work\Docs\Street\Street.Console\bin\Debug\Street.Console.exe
+C:\Work\Docs\Street\Street.Console\bin\Debug\Street.Console.pdb
+C:\Work\Docs\Street\Street.Console\bin\Debug\Street.Library.dll
+C:\Work\Docs\Street\Street.Console\bin\Debug\Street.Library.pdb
+C:\Work\Docs\Street\Street.Console\obj\Debug\Street.Console.csprojResolveAssemblyReference.cache

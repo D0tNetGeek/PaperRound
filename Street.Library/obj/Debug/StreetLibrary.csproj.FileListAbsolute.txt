@@ -1,0 +1,9 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetLibrary\bin\Debug\StreetLibrary.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetLibrary\bin\Debug\StreetLibrary.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetLibrary\obj\Debug\StreetLibrary.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetLibrary\obj\Debug\StreetLibrary.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetLibrary\obj\Debug\StreetLibrary.pdb
+C:\Work\Docs\Street\StreetLibrary\bin\Debug\StreetLibrary.dll
+C:\Work\Docs\Street\StreetLibrary\bin\Debug\StreetLibrary.pdb
+C:\Work\Docs\Street\StreetLibrary\obj\Debug\StreetLibrary.dll
+C:\Work\Docs\Street\StreetLibrary\obj\Debug\StreetLibrary.pdb

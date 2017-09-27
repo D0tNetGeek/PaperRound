@@ -1,0 +1,5 @@
+C:\Work\Docs\Street\Street.Library\bin\Debug\Street.Library.dll
+C:\Work\Docs\Street\Street.Library\bin\Debug\Street.Library.pdb
+C:\Work\Docs\Street\Street.Library\obj\Debug\Street.Library.dll
+C:\Work\Docs\Street\Street.Library\obj\Debug\Street.Library.pdb
+C:\Work\Docs\Street\Street.Library\obj\Debug\Street.Library.csprojResolveAssemblyReference.cache

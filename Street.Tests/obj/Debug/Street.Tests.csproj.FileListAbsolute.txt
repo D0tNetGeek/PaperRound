@@ -1,0 +1,8 @@
+C:\Work\Docs\Street\Street.Tests\bin\Debug\Street.Tests.dll
+C:\Work\Docs\Street\Street.Tests\bin\Debug\Street.Tests.pdb
+C:\Work\Docs\Street\Street.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\Docs\Street\Street.Tests\bin\Debug\Street.Library.dll
+C:\Work\Docs\Street\Street.Tests\bin\Debug\Street.Library.pdb
+C:\Work\Docs\Street\Street.Tests\obj\Debug\Street.Tests.csprojResolveAssemblyReference.cache
+C:\Work\Docs\Street\Street.Tests\obj\Debug\Street.Tests.dll
+C:\Work\Docs\Street\Street.Tests\obj\Debug\Street.Tests.pdb

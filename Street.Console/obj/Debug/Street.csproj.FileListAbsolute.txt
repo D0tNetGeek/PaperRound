@@ -1,0 +1,16 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\Street\bin\Debug\Street.exe.config
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\Street\bin\Debug\Street.exe
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\Street\bin\Debug\Street.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\Street\bin\Debug\StreetLibrary.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\Street\bin\Debug\StreetLibrary.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\Street\obj\Debug\Street.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\Street\obj\Debug\Street.exe
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\Street\obj\Debug\Street.pdb
+C:\Work\Docs\Street\Street\bin\Debug\Street.exe.config
+C:\Work\Docs\Street\Street\bin\Debug\Street.exe
+C:\Work\Docs\Street\Street\bin\Debug\Street.pdb
+C:\Work\Docs\Street\Street\bin\Debug\StreetLibrary.dll
+C:\Work\Docs\Street\Street\bin\Debug\StreetLibrary.pdb
+C:\Work\Docs\Street\Street\obj\Debug\Street.csprojResolveAssemblyReference.cache
+C:\Work\Docs\Street\Street\obj\Debug\Street.exe
+C:\Work\Docs\Street\Street\obj\Debug\Street.pdb

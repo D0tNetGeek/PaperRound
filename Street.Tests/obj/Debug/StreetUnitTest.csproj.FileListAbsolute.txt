@@ -1,0 +1,15 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetUnitTest\obj\Debug\StreetUnitTest.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetUnitTest\bin\Debug\StreetUnitTest.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetUnitTest\bin\Debug\StreetUnitTest.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetUnitTest\obj\Debug\StreetUnitTest.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetUnitTest\obj\Debug\StreetUnitTest.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetUnitTest\bin\Debug\StreetLibrary.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\Street\StreetUnitTest\bin\Debug\StreetLibrary.pdb
+C:\Work\Docs\Street\StreetUnitTest\bin\Debug\StreetUnitTest.dll
+C:\Work\Docs\Street\StreetUnitTest\bin\Debug\StreetUnitTest.pdb
+C:\Work\Docs\Street\StreetUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\Docs\Street\StreetUnitTest\bin\Debug\StreetLibrary.dll
+C:\Work\Docs\Street\StreetUnitTest\bin\Debug\StreetLibrary.pdb
+C:\Work\Docs\Street\StreetUnitTest\obj\Debug\StreetUnitTest.csprojResolveAssemblyReference.cache
+C:\Work\Docs\Street\StreetUnitTest\obj\Debug\StreetUnitTest.dll
+C:\Work\Docs\Street\StreetUnitTest\obj\Debug\StreetUnitTest.pdb
